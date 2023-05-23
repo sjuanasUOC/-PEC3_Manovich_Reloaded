@@ -35,6 +35,8 @@ Esta interacción entre el cicloturista y el entorno crea una mezcla de elemento
 
 La bicicleta se ha convertido en una forma popular de transporte en todo el mundo, y ha demostrado ser una solución efectiva para mejorar la movilidad urbana y reducir las emisiones de gases de efecto invernadero.
 
+### Conclusión 
+
 En resumen, el cicloturismo puede considerarse como un ejemplo de hibridación según la teoría de Lev Manovich, ya que combina diferentes dominios (ciclismo y turismo), utiliza medios digitales en conjunción con la experiencia física, y crea una interacción entre las personas y su entorno natural y cultural. En mi opinión y según lo leído en los recursos de aprendizaje sobre Lev Manovich, esta combinación de elementos distintos en una sola experiencia genera una forma de **hibridación**.
 |  |  |
 |--|--|
@@ -65,4 +67,21 @@ Es posible argumentar que el blockchain puede considerarse como un ejemplo de hi
 
 4. *Cambio en los modelos de confianza:* El blockchain ha transformado la forma en que se establece la confianza en las transacciones. A través de la criptografía y la verificación distribuida, el blockchain permite una confianza descentralizada y transparente en lugar de depender de intermediarios tradicionales. Esta alteración en el modelo de confianza es un aspecto de la hibridación según la teoría de Manovich.
 
+### Conclusión
+
 En resumen, el **blockchain** puede considerarse como un ejemplo de hibridación según la teoría de Lev Manovich. Al combinar diferentes tecnologías, alterar sistemas financieros tradicionales, crear nuevas formas de organización y cambiar los modelos de confianza, el blockchain representa una fusión y convergencia de elementos en el contexto de los nuevos medios y la cultura digital.
+
+### BIBLIOGRAFÍA__________________________
+MANOVICH, Lev. El software toma el mando (Capítulo 4 y 5). Nueva York. ISBN: 978-84-9064-0022-7. Editorial: UOC. 2013. Disponible en:
+https://ebookcentral.proquest.com/lib/bibliouocsp-ebooks/reader.action?docID=4735140
+Ferran Adell. Remediación, multimedia e hibridación de los medios. Fundamentos y evolución de la multimedia. Editorial UOC. 2014. Disponible en:
+http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+
+
+### WEBGRAFIA____________________________
+
+https://cicloclasica.com/
+
+https://www.thepowermba.com
+
+https://es.wikipedia.org/
