@@ -15,7 +15,7 @@ Siguiendo el hilo conductor de la PEC2 y la revolución de las app deportivas al
 
 Viajar en bicicleta es un ejemplo interesante de hibridación porque combina una variedad de elementos para crear una forma de transporte única y diferente.
 
-![Un viajero en bicicleta](https://cicloclasica.com/wp-content/uploads/2021/05/thomasstevens.jpg)
+![Un viajero en bicicleta](/thomasstevens.jpg)
 
 #### DIFERENTES DOMINIOS
 
